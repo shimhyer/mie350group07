@@ -28,7 +28,6 @@ INDEX VERSION 1.127+W:\GitHub\mie350group07\.metadata\.plugins\org.eclipse.jdt.c
 3141958188.index
 3620471903.index
 1780950148.index
-1439336588.index
 1389948092.index
 152008235.index
 4226272656.index

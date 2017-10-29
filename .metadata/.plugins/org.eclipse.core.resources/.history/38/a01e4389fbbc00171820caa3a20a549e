@@ -36,8 +36,13 @@
 			</div>
 			<div class="col-sm-8 text-left">
 				<h1>Welcome</h1>
-				<p>A web application that provides consumers with information on skin care by allowing consumers to state their preferences. The web application targets both females and males of various ages who use skin care products on a daily basis. It will be aimed for people with all kinds of skin types (such as oily skin, dry skin, sensitive skin, or combinations of any types) and will allow consumers to specify what kind of skin care product they are searching for. Consumers are to specify what they are searching for as well as their facial and skin characteristics. Based on the consumers¡¯ inputs, the web application will use this information to recommend consumers with various of skin care products (Ex. moisturizer, cleanser, etc.) that are suited for them. In addition, the web application will be capable of recommending solutions and treatments to skin problems such as acne, clogged pores, wrinkles and more. Any product listed on the web application will contain a detailed description, user reviews of the product and information on its brand. Consumers may also receive tips and product recommendations from skin care vloggers and professionals.
-</p>
+				<p>In this project, your team will design and build a web
+					application. A web application is a software application that is
+					accessed over the Internet using standard browsers (e.g. Internet
+					Explorer, Mozilla Firefox). Examples of web application would be
+					online-shopping, web banking, stock exchange and many others. Each
+					member of the team is expected to contribute equally to the project
+					though there may be a variety of different roles.</p>
 				<hr>
 				<h3>Internet Browsers</h3>
 				<p>When designing your projects, please make sure to test them
